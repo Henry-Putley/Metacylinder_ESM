@@ -1,2 +1,2 @@
 # Metacylinder_ESM
-Electronic Supplementary Material for Effective Medium Metacylinder Lattice
+Electronic Supplementary Material for Metacylinder Lattice
